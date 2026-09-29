@@ -1,0 +1,5 @@
+# 계좌 상태, 설정(API 키 포함), 백그라운드 브라우저 프로필
+data/
+cloud/testdata/
+cloud/test.html
+.claude/
